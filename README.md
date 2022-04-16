@@ -1,4 +1,4 @@
-# collegeenquirychatbot
+# Bank Enquiry ChatBot
 I created this Bank Enquiry ChatBot using Azure Services, HTML, CSS, JS.
 
 This project comprises of different Azure Services, like:-
